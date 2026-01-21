@@ -38,13 +38,13 @@ class Config:
     tournament_size: int = 3
 
     # Number of runs per image
-    n_runs_global: int = 1
+    n_runs_global: int = 3
 
     # Number of k best images to save per one run
-    k_top: int = 3
+    k_top: int = 5
 
     # Max total runtime for the whole session in seconds (0 = no limit)
-    max_runtime_sec: float = 30
+    max_runtime_sec: float = 300
 
 
 # Draw the genome
@@ -369,3 +369,4 @@ def main():
 if __name__ == "__main__":
     mp.freeze_support()
     main()
+
