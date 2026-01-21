@@ -83,6 +83,7 @@ but there are no guarantees that the code will work stably if you changed someth
 | Elite size | 6 |
 | Tournament size | 3 |
 | Runs per image | 3 |
+| Runtime in sec | 300 |
 
 ---
 
