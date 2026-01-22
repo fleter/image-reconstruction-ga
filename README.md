@@ -96,6 +96,9 @@ but there are no guarantees that the code will work stably if you changed someth
 
 The tiling structure remains visible in the final image, contributing to the artistic mosaic effect.
 
+![Input image](images/input1.jpg)
+![Reconstructed image](images/output1.png)
+
 ---
 
 ## How to Run
